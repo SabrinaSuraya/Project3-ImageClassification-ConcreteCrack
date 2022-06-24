@@ -33,3 +33,12 @@ To classify the image of concrete wheteher it is crack or not
 
 
 ![image](https://user-images.githubusercontent.com/73817610/175440728-ddd1fd46-2706-4a09-857e-b45ad99b5122.png)
+
+
+
+Predicting a new image
+![image](https://user-images.githubusercontent.com/73817610/175445492-b8bc30a0-276a-4f99-ab58-0808cd018dc3.png)
+
+![image](https://user-images.githubusercontent.com/73817610/175445528-89291039-bd9d-4bd7-89a9-07072873e46c.png)
+
+
