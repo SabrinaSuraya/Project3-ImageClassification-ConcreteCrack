@@ -23,8 +23,13 @@ To classify the image of concrete wheteher it is crack or not
 
 - the model constist of 5 dense layers. 
 - Model summary:
-![image](https://user-images.githubusercontent.com/73817610/174966416-20240580-bc9e-4baf-b7b5-ded01dc06426.png)
+![image](https://user-images.githubusercontent.com/73817610/175441144-f6fafeba-43f6-4319-86ac-c5ca0099513d.png)
+
 
 
 -The model is compile with optimizer of 'adam' with learning rate = 0.001, loss= BinaryCrossentropy', metrics of accuracy, batch_size of 32 and epochs of 200
 - The value is display by using TensorBoard:
+- ![image](https://user-images.githubusercontent.com/73817610/175440981-0a8b8a63-ebb4-4260-94d2-fb949a20e101.png)
+
+
+![image](https://user-images.githubusercontent.com/73817610/175440728-ddd1fd46-2706-4a09-857e-b45ad99b5122.png)
